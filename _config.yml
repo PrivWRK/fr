@@ -1,5 +1,5 @@
 # Basic Settings
-title: dario.com • Protéger les données personnelles • Développer votre entreprise
+title: Priv360 • Protéger les données personnelles • Développer votre entreprise
 description: Nous optimisons vos programmes de confidentialité et de conformité des données, augmentant la confiance en votre entreprise et les opportunités de croissances.
 author: dario
 # Language format language_TERRITORY. Default is en_US
@@ -8,7 +8,7 @@ lang: fr_CA
 logo: img/chklst.png
 image: img/header.jpg
 # urls
-url: https://dario.com
+url: https://priv360.com
 english_url: ''
 # french landing page
 french_url: /fr
@@ -19,7 +19,7 @@ resources_url: 'resources'
 services_url: 'fr-services'
 
 # copyright text in footer
-copyright: dario.com
+copyright: Priv360
 
 # email address
 email: contact@dario.com
@@ -31,11 +31,11 @@ email_privacy: contact@dario.com
 telephone_number:
 
 # search tracking id for dario.com
-google_tracking_id: UA-98131817-2
+google_tracking_id: 
 
 webmaster_verifications:
-  google: DQehZZh2Dx2G-CEfmIed3hixR8DokYqvKiJwWcn5IiM
-  bing: AC24F3DF5CA3A5221FB7E01EF2D9AAC4
+  google: 
+  bing: 
   alexa:
   yandex:
   baidu:
