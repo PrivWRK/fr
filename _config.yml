@@ -30,11 +30,11 @@ email_privacy: contact@dario.com
 # contact telephone number
 telephone_number:
 
-# search tracking id for dario.com
-google_tracking_id: 
+# search tracking id for Priv360.com
+google_tracking_id: UA-98131817-5
 
 webmaster_verifications:
-  google: G-384D33NCB2
+  google: 
   bing: 
   alexa:
   yandex:
