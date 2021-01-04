@@ -1,6 +1,6 @@
 # Basic Settings
 title: Priv360 • La confidentialité est notre affaire
-description: Nous optimisons vos programmes de confidentialité et de conformité des données, augmentant la confiance en votre entreprise et les opportunités de croissances.
+description: Nous optimisons vos programmes de conformité en matière de protection des données personnelles et de vie privée, augmentant vos opportunités de croissances.
 author: Priv360
 # Language format language_TERRITORY. Default is en_US
 lang: fr_CA
@@ -28,7 +28,7 @@ email_username: contact@dario.com
 email_privacy: contact@dario.com
 
 # contact telephone number
-telephone_number:
+telephone_number: +1 514 558 4573
 
 # search tracking id for Priv360.com
 google_tracking_id: UA-98131817-5
@@ -41,11 +41,11 @@ webmaster_verifications:
   baidu:
 
 # Social/SEO
-twitter_username: darioS3C
+twitter_username:
 facebook_username:
 
 twitter:
-  username: darioS3C
+  username:
 
 facebook:
   app_id:
