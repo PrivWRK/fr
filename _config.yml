@@ -22,10 +22,10 @@ services_url: 'fr-services'
 copyright: Priv360
 
 # email address
-email: contact@dario.com
-email_username: contact@dario.com
+email: contact@priv360.com
+email_username: contact@priv360.com
 # email address in privacy policy
-email_privacy: contact@dario.com
+email_privacy: contact@priv360.com
 
 # contact telephone number
 telephone_number: +1 514 558 4573
